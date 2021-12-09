@@ -1,3 +1,8 @@
+<h1> Snjall dyrabjalla </h1>
+<h3> eftir Andra benedikt og Viktor Andra í VESM2VÞ05CU. <h3>
+Dyrabjalla sem birtir steymi á vefsíðu og sendir þér tilkynningu í símann ef að er ýtt á takkann.<br>
+það þarf að skrá sig inn á vefsíðuna til að fá að sjá streymið svo það kemst ekki hver sem er á streymið
+
 1. Tími: Ákvöddum hvað við ætluðum að gera og byrjuðum að finna út úr kóðanum náðum flestu til að virka á pc vél
 2. Tími: Reyndum að færa kóðan og breyta honum svo að hann mundi virka á pi það gekk ekki útaf opencv og hönnuðum líka rafrásarteikninguna.<br>![mynd](https://github.com/Andri1411/Verksmidja-III-lokaverk/blob/main/photos/circuit.png)
 
