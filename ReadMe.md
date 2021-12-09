@@ -1,5 +1,5 @@
 <h1> Snjall dyrabjalla </h1>
-<h3> eftir Andra benedikt og Viktor Andra í VESM2VÞ05CU. <h3>
+<h3> eftir Andra benedikt og Viktor Andra í VESM2VÞ05CU. </h3>
 Dyrabjalla sem birtir steymi á vefsíðu og sendir þér tilkynningu í símann ef að er ýtt á takkann.<br>
 það þarf að skrá sig inn á vefsíðuna til að fá að sjá streymið svo það kemst ekki hver sem er á streymið
 
