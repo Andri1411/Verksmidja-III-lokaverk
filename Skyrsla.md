@@ -7,3 +7,7 @@
 Við fundum nýja lausn sem notaði [kóða frá miguel grinberg](https://github.com/miguelgrinberg/flask-video-streaming).
 4. Tími: Við kláruðum kóðann og hýsinguna, testuðum og lóðuðum svo.
 [Kóðaskrá](/final)
+
+Myndir af samsetningu:
+![alt text](https://github.com/Andri1411/Verksmidja-III-lokaverk/blob/main/IMG_20211209_143501.jpg)
+![alt text](https://github.com/Andri1411/Verksmidja-III-lokaverk/blob/main/IMG_20211207_095810.jpg)
