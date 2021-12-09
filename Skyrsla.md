@@ -8,6 +8,9 @@ Við fundum nýja lausn sem notaði [kóða frá miguel grinberg](https://github
 4. Tími: Við kláruðum kóðann og hýsinguna, testuðum og lóðuðum svo.
 [Kóðaskrá](/final)
 
+Myndband af virkni:
+https://youtu.be/0l4byV8MO2s
+
 Efnalisti:
 - Pi Cam
 - Stór rauður takki
