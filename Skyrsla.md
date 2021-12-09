@@ -1,5 +1,5 @@
 1. Tími: Ákvöddum hvað við ætluðum að gera og byrjuðum að finna út úr kóðanum náðum flestu til að virka á pc vél
-2. Tími: Reyndum að færa kóðan og breyta honum svo að hann mundi virka á pi það gekk ekki útaf opencv 
+2. Tími: Reyndum að færa kóðan og breyta honum svo að hann mundi virka á pi það gekk ekki útaf opencv og hönnuðum líka rafrásarteikninguna.<br>![mynd](https://github.com/Andri1411/Verksmidja-III-lokaverk/blob/main/circuit.png)
 
     [OpenCV gögn](/web)
 
