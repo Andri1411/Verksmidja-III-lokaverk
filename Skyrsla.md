@@ -24,3 +24,10 @@ Myndir af samsetningu:
 
 STL skrár af kassanum(kassin var fengin héðan https://www.tinkercad.com/things/cgOJeDmUR8G-box-with-sliding-lid): <br>
 [Kassi](https://github.com/Andri1411/Verksmidja-III-lokaverk/blob/main/Copy%20of%20Box%20with%20sliding%20lid.stl)
+
+Vefsíða:
+
+Innskráning
+![Innskráning](/photos/Screenshot%20(2).png)
+Villuhöndlun
+![Villuhöndlun](/photos/Screenshot%20(1).png)
