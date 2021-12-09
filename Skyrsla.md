@@ -8,3 +8,5 @@ reyndum að færa kóðan og breyta honum svo að hann mundi virka á pi það g
 3. tími
 leytuðum af nýrri lausn og einfölduðum verkefnið aðeins lóðuðum takka og buzzer við brauðbretti.
 Við fundum nýja lausn sem notaði [kóða frá miguel grinberg](https://github.com/miguelgrinberg/flask-video-streaming).
+
+[Kóðaskrá](/final)
