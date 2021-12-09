@@ -1,0 +1,19 @@
+<link rel="stylesheet" href={{url_for("static", filename="style.css")}}>
+<body>
+    <form method="POST">
+        <h3>Netfang:</h3>
+        <input name="email" required>
+        <h3>Lykilorð:</h3>
+        <input name="pw" type="password" required>
+        <br>
+        <!-- kommentað svo se bara 1 aðgangur
+        <input class="radio" type="radio" id="login" name="type" value="login" checked>
+        <label for="login">Skrá inn</label>
+        <input class="radio" type="radio" id="register" name="type" value="register">
+        <label for="register">Nýr notandi</label>
+        -->
+        <br>
+        <input type="submit" class="submit" value="Staðfesta">
+    </form>
+</body>
+

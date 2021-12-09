@@ -1,0 +1,172 @@
+html, body {
+    height: 100%;
+}
+body{
+    max-width: 80em;
+    margin: 0 auto;
+    text-align: center;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+}
+.main{
+    flex: 1 0 auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+li a{
+    display: inline;
+}
+h2, .page, .del, .unwatch{
+    max-width: 80em;
+    margin: .5em auto;
+    max-width: 8em;
+    padding: 1em;
+    border-radius: .5em;
+    border: 1px solid black;
+}
+h2{
+    background-color: rgb(173, 173, 173);
+}
+.page{
+    background-color: darkgreen;
+}
+.logo{
+    max-width: 5em;
+    border-radius: 2em;
+}
+.header, .footer{
+    background-color: rgb(71, 71, 71);
+}
+.footer{
+    flex-shrink: 0;
+    padding: 1em;
+}
+h3, input{
+    font-size: 1.5em;
+}
+.del{
+    background-color: red;
+}
+.error{
+    color: red;
+}
+.cover{
+    padding-top: 1em;
+}
+h3{
+    margin-bottom: 0;
+}
+.desc{
+    margin: auto;
+    padding-bottom: .3em;
+    max-width: 40em;
+}
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.headerLink{
+    font-size: 1.5em;
+    color: lightgray;
+    margin-top: 1em;
+}
+.radio{
+    margin-top: 1em;
+}
+.imgnname{
+    border: 1px black solid;
+    max-width: 40em;
+    margin: auto;
+}
+.headshot{
+    max-height: 10em;
+    margin: auto;
+}
+.name{
+    margin: 0;
+}
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.log{
+    background-color: lightblue;
+    border: 1px black solid;
+    border-radius: 1em;
+    margin: auto;
+    padding: 1em 2em;
+}
+.seasons{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.szn_img{
+    max-width: 15em;
+}
+.top{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    max-width: 50em;
+    margin: auto;
+}
+.showname{
+    margin: auto 0;
+}
+.episode{
+    position: relative;
+    border: 1px solid black;
+    margin: 1em auto;
+    padding: 2.5em;
+    width: 17em;
+    height: 17em
+}
+.episodes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.watch_btn{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: .5em;
+    padding: 1em;
+    background-color: rgb(73, 204, 73);
+    margin-top: 1em;
+    bottom: 1em;
+    right: 6.4em;
+}
+.sode{
+    margin: 0;
+}
+.desc{
+    margin-top: 1em;
+}
+.fin{
+    background-color: rgb(46, 138, 46);
+}
+.started{
+    background-color: rgb(187, 187, 77);
+}
+.nostart{
+    background-color: tomato;
+}
+.unwatch{
+    background-color: tomato;
+}
+.unwatch_btn{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: .5em;
+    padding: 1em;
+    background-color: tomato;
+    margin-top: 1em;
+    bottom: 1em;
+    right: 5.5em;
+}
+.text{
+    margin: .2em auto;
+}
