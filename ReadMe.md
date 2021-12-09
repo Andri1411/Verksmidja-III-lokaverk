@@ -34,3 +34,5 @@ Innskráning
 ![Innskráning](/photos/Screenshot%20(2).png)
 Villuhöndlun
 ![Villuhöndlun](/photos/Screenshot%20(1).png)
+Video streymi
+![Streymi](/photos/Screenshot%20(3).png)
